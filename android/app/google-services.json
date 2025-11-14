@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "185842194095",
+    "firebase_url": "https://jaysingpur-14c84-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jaysingpur-14c84",
+    "storage_bucket": "jaysingpur-14c84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185842194095:android:a7b2b91bd49fae9e24265a",
+        "android_client_info": {
+          "package_name": "com.Jaysingpur"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jqUR1VwZLB3L_pe2hV5dCzwRzuRMA88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185842194095:android:552dfb1e013b763b24265a",
+        "android_client_info": {
+          "package_name": "com.ward6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3jqUR1VwZLB3L_pe2hV5dCzwRzuRMA88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

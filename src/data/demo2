@@ -1,0 +1,87 @@
+const VOTERS_101 = 
+ 
+[
+
+   
+  {
+    "id": 1,
+    "voter_id_number": "UYT7516115",
+    "voter_reference_number": "278/283/12",
+    "voter_full_name": "मुधाळे ऋतुजा रघुनाथ (Mudhale Rutuja Raghunath)",
+    "father_full_name": "मुधाळे रघुनाथ राम (Mudhale Raghunath Ram)",
+    "house_number_address": "३",
+    "voter_age": 26,
+    "voter_gender": "जी (Female)"
+  },
+  {
+    "id": 2,
+    "voter_id_number": "UYT8339228",
+    "voter_reference_number": "278/283/40",
+    "voter_full_name": "गोंधळी निशिगंधा (Gondhali Nishigandha)",
+    "father_full_name": "गोंधळी सतीश (Gondhali Satish)",
+    "house_number_address": "६७",
+    "voter_age": 28,
+    "voter_gender": "जी (Female)"
+  },
+  {
+    "id": 3,
+    "voter_id_number": "UYT6630487",
+    "voter_reference_number": "278/283/47",
+    "voter_full_name": "माळी साताप्पा बाळीशा (Mali Satappa Balisha)",
+    "father_full_name": "माळी बाळीशा (Mali Balisha)",
+    "house_number_address": "१३-६",
+    "voter_age": 59,
+    "voter_gender": "पु (Male)"
+  },
+  {
+    "id": 4,
+    "voter_id_number": "UYT7440084",
+    "voter_reference_number": "278/283/49",
+    "voter_full_name": "शेख सुमिया रियाज़ (Shaikh Sumiya Riyaz)",
+    "father_full_name": "शेख रियाज़ (Shaikh Riyaz)",
+    "house_number_address": "२०६",
+    "voter_age": 22,
+    "voter_gender": "बी (Female)"
+  },
+  {
+    "id": 5,
+    "voter_id_number": "UYT8618605",
+    "voter_reference_number": "278/283/74",
+    "voter_full_name": "सतीश अप्पासाहेब कमते (Satish Appasaheb Kamate)",
+    "father_full_name": "अप्पासाहेब बाळू कमते (Appasaheb Balu Kamate)",
+    "house_number_address": "६७१५",
+    "voter_age": 41,
+    "voter_gender": "पु (Male)"
+  },
+  {
+    "id": 6,
+    "voter_id_number": "UYT8618647",
+    "voter_reference_number": "278/283/75",
+    "voter_full_name": "दिपाली सतीश कमते (Dipali Satish Kamate)",
+    "father_full_name": "सतीश बाळासाहेब कमते (Satish Balasaheb Kamate)",
+    "house_number_address": "६७१/५",
+    "voter_age": 37,
+    "voter_gender": "NA"
+  },
+  {
+    "id": 7,
+    "voter_id_number": "UYT8411738",
+    "voter_reference_number": "278/283/85",
+    "voter_full_name": "दिवटे अनुराधा संतोष दिवटे (Diwate Anuradha Santosh Diwate)",
+    "father_full_name": "दिवटे उज्जवला आनंदा दिवटे (Diwate Ujwala Ananda Diwate)",
+    "house_number_address": "ward no ७",
+    "voter_age": 27,
+    "voter_gender": "पु (Male)"
+  }
+ 
+]
+
+// Map of all datasets
+const VOTER_DATASETS = {
+  101: VOTERS_101,
+};
+
+// Dataset names for display
+const DATASET_NAMES = {
+  101: 'Voter List 1',
+};
